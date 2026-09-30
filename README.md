@@ -1,8 +1,6 @@
 <div align="center">
 
-# harshithreddyvaladri
-
-**Learning things I Like**
+<img src="assets/profile-header.svg" alt="Harshith Reddy Valadri — Learning things I Like" width="900">
 
 <br>
 
@@ -16,7 +14,6 @@
 
 I like building things and learning whatever catches my interest.
 
-
 <br>
 
 ## Activity
@@ -25,8 +22,8 @@ My contribution graph, being eaten by Pac-Man.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithReddy973/HarshithReddy973/output/pacman-contribution-graph-dark.svg">
-  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/HarshithReddy973/HarshithReddy973/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshithReddy973/Harshithreddy973/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/HarshithReddy973/Harshithreddy973/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
@@ -43,8 +40,6 @@ My contribution graph, being eaten by Pac-Man.
 ## Find me
 
 - GitHub: [@HarshithReddy973](https://github.com/HarshithReddy973)
-- LinkedIn: [Harshith Reddy Valadri](https://www.linkedin.com/in/harshith-reddy-valadri)
+- LinkedIn: [Harshith Reddy Valadri](https://www.linkedin.com/in/harshith-reddy-valadri-a11a76389)
 - Instagram: [harshith_valadri](https://www.instagram.com/harshith_valadri)
 - Email: [Harshith Reddy](mailto:valadriharshithreddy@gmail.com)
-
-

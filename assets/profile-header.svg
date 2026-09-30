@@ -1,0 +1,40 @@
+<svg width="900" height="125" viewBox="0 0 900 125" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .name {
+      font-family: "Google Sans", "Product Sans", "Inter", "Segoe UI", Arial, sans-serif;
+      font-size: 46px;
+      font-weight: 600;
+      letter-spacing: -1.4px;
+    }
+    .tagline {
+      font-family: "Google Sans", "Product Sans", "Inter", "Segoe UI", Arial, sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      letter-spacing: 0.2px;
+    }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #f0f0f0; }
+      .tagline { fill: #a9b1bb; }
+    }
+    @media (prefers-color-scheme: light) {
+      .name { fill: #202124; }
+      .tagline { fill: #5f6368; }
+    }
+    .dot {
+      fill: #4285f4;
+      animation: pulse 2.4s ease-in-out infinite;
+      transform-origin: center;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: .55; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.18); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .dot { animation: none; }
+    }
+  </style>
+
+  <text x="450" y="57" text-anchor="middle" class="name">Harshith Reddy Valadri</text>
+  <circle cx="450" cy="76" r="3" class="dot"/>
+  <text x="450" y="106" text-anchor="middle" class="tagline">Learning things I Like</text>
+</svg>
