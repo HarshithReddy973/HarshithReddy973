@@ -4,19 +4,17 @@
 
 <br>
 
-<img src="assets/mini-core.svg" alt="Animated minimal core" width="120">
+<img src="assets/mini-core.svg" alt="Animated minimal core" width="200">
 
 </div>
 
 <br>
 
-## hey, I'm Harshith
+## Hey, I'm Harshith
 
 I like building things and learning whatever catches my interest.
 
 <br>
-
-## Activity
 
 My contribution graph, being eaten by Pac-Man.
 
