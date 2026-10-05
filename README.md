@@ -10,7 +10,7 @@
 
 <br>
 
-## Hey, I'm Harshith
+## Hi!
 
 I like building things and learning whatever catches my interest.
 
